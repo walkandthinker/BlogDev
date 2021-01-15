@@ -3,7 +3,7 @@ title: Dr. Yang Bai
 date: 2020-11-22 18:16:38
 ---
 
-My name is Yang Bai, I come from China. I'm a doctoral researcher in the materials science field, my research focuses mainly on the modeling aspect. The finite element method (**FEM**) is one of my favorite weapons to study the physical behavior of materials, i.e., the `phase-separation` in `battery energy materials`, `grain boundary`, `crack propagation`, `large deformation solids`, and so on. It is fascinating to do research and code, but, the family is more interesting than others. Enjoy life!
+My name is Yang Bai, I come from China. I'm a postdoctoral researcher in the field of materials science, my research focuses mainly on the modeling aspect. The finite element method (**FEM**) is one of my favorite weapons to study the physical behavior of materials, i.e., the `phase-separation` in `battery energy materials`, `grain boundary`, `crack propagation`, `large deformation solids`, and so on. It is fascinating to do research and code, but, the family is more interesting than others. Enjoy life!
 
 Hobby
 ---------
