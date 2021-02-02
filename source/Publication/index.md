@@ -8,6 +8,9 @@ For more details, one can visit my [GoogleScholar](https://scholar.google.com/ci
 Journal papers
 ---------
 
+12. Y. Liu, **Y. Bai**, W. Jaegermann, R. Hausbrand, and B.X. Xu, Impedance Modeling of Solid-State Electrolytes: Influence of the Contacted Space Charge Layer, ***ACS Applied Materials & Interfaces***, 2021, [DOI](https://doi.org/10.1021/acsami.0c22986)
+
+
 11. B. Lin, **Y. Bai**, B.X. Xu, Data-driven microstructure sensitivity study of fibrous paper materials, ***Materials & Design***, 2021, [DOI](https://doi.org/10.1016/j.matdes.2020.109193)
 
 
@@ -39,3 +42,23 @@ Journal papers
 
 
 1. Z.Y. Liu, C.Y. Dong, **Y. Bai**, An iterative FE–BE method and rectangular cell model for effective elastic properties of doubly periodic anisotropic inclusion composites, ***Composite Structures***, 2015, [DOI](https://doi.org/10.1016/j.compstruct.2015.01.021)
+
+
+Conferences
+---------
+
+5. 8th GACM Colloquium on Computational Mechanics (GACM 2019), 2019, Kas-
+sel, Germany
+
+
+4. Materials Science and Engineering conference (MSE), 2018, Darmstadt, Germany
+
+
+3. The Society of Engineering Science (SES) Technical Meeting, 2018, Madrid,
+Spain
+
+
+2. 88th GAMM Annual Meeting, 2017, Weimar, Germany
+
+
+1. 4th GAMM Workshop on Phase Field Modeling, 2017, RWTH Aachen, Germany

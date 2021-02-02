@@ -11,18 +11,18 @@ Hobby
 - **Swimming**
 - **Hiking**
 - **Coocking**, to be serious, I'm professional
-- **Coding**, yelp, I enjoy it quite a lot
+- **Coding**, yup, I enjoy it quite a lot
 - **Developing my finite element method package**, exactly, its my hobby :)
 
 Education
 ---------
-- **PostDoc**, *Microstructure Physics and Alloy Design*, Max-Plank-Institute, Germany, 2020-Present
+- **PostDoc**, *Microstructure Physics and Alloy Design*, Max-Planck-Institut für Eisenforschung GmbH (**MPIE**), Germany, 2020-Present
 
-- **PhD**, *Materials Science*, TU Darmstadt, Germany, 2016-2020
+- **PhD**, *Materials Science*, Technische Universität Darmstadt(**TU Darmstadt**), Germany, 2016-2020
 
-- **MSc**, *Solid Mechanics*, Beijing Institute of Technology, China, 2013-2016
+- **MSc**, *Solid Mechanics*, Beijing Institute of Technology(**BIT**), China, 2013-2016
 
-- **BSc**, *Solid Mechanics*, Peking University, China, 2009-2013
+- **BSc**, *Solid Mechanics*, Peking University (**PKU**), China, 2009-2013
 
 
 Research interests
