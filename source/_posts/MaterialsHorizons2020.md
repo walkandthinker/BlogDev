@@ -10,3 +10,5 @@ tags:
 
 A new paper is accepted by 'Materials Horizontal', where I used the chemo-mechanically coupled phase-field model to study the phase-separation patterns in the  $\ce{V2O5}$ nanowire.
 ![MaterialsHorizontal](/images/MaterialsHorizons-2020.gif)
+
+For more details, one is referred to the [paper](https://doi.org/10.1039/D0MH01240H).

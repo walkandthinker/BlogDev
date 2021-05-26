@@ -8,6 +8,9 @@ For more details, one can visit my [GoogleScholar](https://scholar.google.com/ci
 Journal papers
 ---------
 
+13. **Y. Bai$^{1}$**, D.A. Santos$^{1}$, S. Rezaei, P. Stein, S. Banerjee, B.X. Xu, A chemo-mechanical damage model at large deformation: numerical and experimental studies on polycrystalline energy materials, ***International Journal of Solids and Structures***, 2021, [DOI](https://doi.org/10.1016/j.ijsolstr.2021.111099)
+
+
 12. Y. Liu, **Y. Bai**, W. Jaegermann, R. Hausbrand, and B.X. Xu, Impedance Modeling of Solid-State Electrolytes: Influence of the Contacted Space Charge Layer, ***ACS Applied Materials & Interfaces***, 2021, [DOI](https://doi.org/10.1021/acsami.0c22986)
 
 
